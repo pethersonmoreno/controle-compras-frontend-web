@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/controle-compras-frontend-web/static/media/roboto-latin-400italic.d8bcbe72.woff2"
   },
   {
-    "revision": "8e153bd33979f5be5d7d",
+    "revision": "e1c9200d18213ea1679c",
     "url": "/controle-compras-frontend-web/static/css/main.be4a1c4e.chunk.css"
   },
   {
@@ -20,16 +20,12 @@ self.__precacheManifest = [
     "url": "/controle-compras-frontend-web/static/js/runtime~main.22f7292f.js"
   },
   {
-    "revision": "987b84570ea69ee660455b8d5e91f5f1",
-    "url": "/controle-compras-frontend-web/static/media/roboto-latin-100.987b8457.woff2"
-  },
-  {
-    "revision": "e9dbbe8a693dd275c16d32feb101f1c1",
-    "url": "/controle-compras-frontend-web/static/media/roboto-latin-100.e9dbbe8a.woff"
-  },
-  {
     "revision": "6232f43d15b0e7a0bf0fe82e295bdd06",
     "url": "/controle-compras-frontend-web/static/media/roboto-latin-100italic.6232f43d.woff2"
+  },
+  {
+    "revision": "987b84570ea69ee660455b8d5e91f5f1",
+    "url": "/controle-compras-frontend-web/static/media/roboto-latin-100.987b8457.woff2"
   },
   {
     "revision": "d704bb3d579b7d5e40880c75705c8a71",
@@ -40,6 +36,10 @@ self.__precacheManifest = [
     "url": "/controle-compras-frontend-web/static/media/roboto-latin-300.55536c8e.woff2"
   },
   {
+    "revision": "e9dbbe8a693dd275c16d32feb101f1c1",
+    "url": "/controle-compras-frontend-web/static/media/roboto-latin-100.e9dbbe8a.woff"
+  },
+  {
     "revision": "a1471d1d6431c893582a5f6a250db3f9",
     "url": "/controle-compras-frontend-web/static/media/roboto-latin-300.a1471d1d.woff"
   },
@@ -48,20 +48,20 @@ self.__precacheManifest = [
     "url": "/controle-compras-frontend-web/static/media/roboto-latin-300italic.d69924b9.woff2"
   },
   {
-    "revision": "bafb105baeb22d965c70fe52ba6b49d9",
-    "url": "/controle-compras-frontend-web/static/media/roboto-latin-400.bafb105b.woff"
-  },
-  {
     "revision": "210a7c781f5a354a0e4985656ab456d9",
     "url": "/controle-compras-frontend-web/static/media/roboto-latin-300italic.210a7c78.woff"
+  },
+  {
+    "revision": "bafb105baeb22d965c70fe52ba6b49d9",
+    "url": "/controle-compras-frontend-web/static/media/roboto-latin-400.bafb105b.woff"
   },
   {
     "revision": "5d4aeb4e5f5ef754e307d7ffaef688bd",
     "url": "/controle-compras-frontend-web/static/media/roboto-latin-400.5d4aeb4e.woff2"
   },
   {
-    "revision": "8e153bd33979f5be5d7d",
-    "url": "/controle-compras-frontend-web/static/js/main.8e153bd3.chunk.js"
+    "revision": "e1c9200d18213ea1679c",
+    "url": "/controle-compras-frontend-web/static/js/main.e1c9200d.chunk.js"
   },
   {
     "revision": "9680d5a0c32d2fd084e07bbc4c8b2923",
@@ -116,7 +116,7 @@ self.__precacheManifest = [
     "url": "/controle-compras-frontend-web/static/css/1.7848ac6e.chunk.css"
   },
   {
-    "revision": "f996b3938b9cfea0c8fd28e9632df49a",
+    "revision": "48008ea07cc4ce2f0aad688c567bff43",
     "url": "/controle-compras-frontend-web/index.html"
   }
 ];
