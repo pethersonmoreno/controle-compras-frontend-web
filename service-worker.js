@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/controle-compras-frontend-web/precache-manifest.2e158f8289a0e3bdc871ae3f410eee28.js"
+  "/controle-compras-frontend-web/precache-manifest.27bf4b40f5babba83fde1dfdb2026227.js"
 );
 
 workbox.clientsClaim();
