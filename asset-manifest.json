@@ -1,7 +1,7 @@
 {
   "main.css": "/controle-compras-frontend-web/static/css/main.f13f3747.chunk.css",
-  "main.js": "/controle-compras-frontend-web/static/js/main.ae4a5f37.chunk.js",
-  "main.js.map": "/controle-compras-frontend-web/static/js/main.ae4a5f37.chunk.js.map",
+  "main.js": "/controle-compras-frontend-web/static/js/main.94ff0d7e.chunk.js",
+  "main.js.map": "/controle-compras-frontend-web/static/js/main.94ff0d7e.chunk.js.map",
   "static/css/1.ee88e19b.chunk.css": "/controle-compras-frontend-web/static/css/1.ee88e19b.chunk.css",
   "static/js/1.13c43915.chunk.js": "/controle-compras-frontend-web/static/js/1.13c43915.chunk.js",
   "static/js/1.13c43915.chunk.js.map": "/controle-compras-frontend-web/static/js/1.13c43915.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/css/main.f13f3747.chunk.css.map": "/controle-compras-frontend-web/static/css/main.f13f3747.chunk.css.map",
   "static/css/1.ee88e19b.chunk.css.map": "/controle-compras-frontend-web/static/css/1.ee88e19b.chunk.css.map",
   "index.html": "/controle-compras-frontend-web/index.html",
-  "precache-manifest.7bb19b04ce16f163fd7e3eaa3e947450.js": "/controle-compras-frontend-web/precache-manifest.7bb19b04ce16f163fd7e3eaa3e947450.js",
+  "precache-manifest.2e868097f8aa90334a7dcc8bf32bb5ab.js": "/controle-compras-frontend-web/precache-manifest.2e868097f8aa90334a7dcc8bf32bb5ab.js",
   "service-worker.js": "/controle-compras-frontend-web/service-worker.js"
 }
